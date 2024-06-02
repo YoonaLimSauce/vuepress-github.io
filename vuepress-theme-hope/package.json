@@ -6,13 +6,12 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:YoonaLimSauce/vuepress-github.io.git"
-    
   },
-  "license": "MIT",
+  "license": "GNU General Public License v3.0",
   "scripts": {
     "blog:build": "vuepress build blog",
     "blog:dev": "vuepress dev blog",
-    "dev": "npm run docs:dev",
+    "dev": "pnpm run docs:dev",
     "docs:build": "vuepress build docs",
     "docs:dev": "vuepress dev docs"
   },
@@ -23,5 +22,5 @@
     "vuepress": "2.0.0-rc.12",
     "vuepress-theme-hope": "2.0.0-rc.44"
   },
-  "packageManager": "pnpm@8.15.8"
+  "packageManager": "pnpm@9.1.4"
 }
