@@ -5,7 +5,8 @@
   "description": "A online demo for vuepress-theme-hope",
   "repository": {
     "type": "git",
-    "url": "git@github.com:vuepress-theme-hope/online-demo.git"
+    "url": "git@github.com:YoonaLimSauce/vuepress-github.io.git"
+    
   },
   "license": "MIT",
   "scripts": {
