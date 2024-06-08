@@ -51,10 +51,10 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
     highlights:
-      - title: SEO 增强
+      - title: 硅谷之火-个人计算机的诞生与衰落（第3版）
         icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
+        details: 1987年，36年前，我考上了武汉大学计算机系。我在图书馆里看了一本书，《硅谷之火》，建立了自己一生的梦想。看完这本书后，我热血沸腾，激动得睡不着觉。当天晚上，星光很亮，我在武大操场上，走了一圈又一圈，走了整整一夜。我心里有团火：我要创办一家伟大的公司。梦想之火，在我心里彻底点燃了。但是，一个大一新生，一个刚从县城出来的年轻人，什么也不会，什么也没有，就想创办一家伟大的公司，谈何容易！这么离谱的梦想，该如何实现呢？我完全理不清头绪，干脆就不想了，还是先把书读好。
+        link: /zh/reading_books/硅谷之火-个人计算机的诞生与衰落（第3版）.md
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
