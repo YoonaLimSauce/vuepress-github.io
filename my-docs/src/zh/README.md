@@ -46,7 +46,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
   - header: 阅读
-    description: 让你的文章跟有趣
+    description: 让你的文章更有趣。
     image: /assets/image/advanced.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
@@ -55,21 +55,6 @@ highlights:
         icon: dumbbell
         details: 将最终生成的网页针对搜索引擎进行优化。
         link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
-
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
-
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
-
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
